@@ -3,8 +3,12 @@ declare module '*.json' {
     export default value
 }
 
+interface Env {
+    NODE_ENV: string
+}
+
 interface Process {
-    env: any
+    env: Env
 }
 
 declare var process: Process
