@@ -1,0 +1,15 @@
+{
+  "name": "@chazzz/base-type",
+  "version": "1.0.0",
+  "description": "base typings for my apps",
+  "author": "Charles Jacquin <charles.jacquin@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/charjac/base-types.git"
+  },
+  "main": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC"
+}
